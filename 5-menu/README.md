@@ -1,6 +1,3 @@
-# react-ts-init
+# menu
 
-react-typescript application cleaned-up initial-setup
-
-The application is bootstraped using the command 'npx create-react-app . --template typescript'
-To run the application, perform #'npm start'
+A restaurant menu with filter feature
