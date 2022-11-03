@@ -18,13 +18,6 @@ const App = () => {
     }
 
     setText(data.slice(0, amount)); // end value not included in slice
-
-    console.log({
-      'amount': amount,
-      'count': count,
-      'length': data.length,
-      'text': text.length
-    });
   }
 
   return (

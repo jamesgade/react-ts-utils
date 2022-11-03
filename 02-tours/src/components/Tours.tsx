@@ -8,8 +8,6 @@ type ToursComponentProps = {
 
 const Tours = ({ tours, deleteTour }: ToursComponentProps) => {
 
-    console.log(tours)
-
     return (
         <section>
             <div className="title">
