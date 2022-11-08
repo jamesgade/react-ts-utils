@@ -10,6 +10,7 @@ const Alert = ({ type, message, removeAlert, list }: any) => {
 
         return () => clearTimeout(timeout)
 
+        // eslint-disable-next-line
     }, [list])
 
     return (
